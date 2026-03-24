@@ -51,7 +51,7 @@ This project showcases an interactive Sales Dashboard built using Power BI, base
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/spqdot/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20works%20Sales%20dashboard.pdf)
+![image alt](https://github.com/spqdot/Adventure-Works-Sales-Dashboard/blob/main/Adventure%20works%20Sales%20dashboard.pdf)
 
 ---
 
